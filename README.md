@@ -64,12 +64,9 @@ This section contains the JavaScript solution for Question 2. It demonstrates th
 
 **Output Screenshot:**
 
-<img width="710" height="400" alt="image" src="https://github.com/user-attachments/assets/ab2f6da7-9b7d-4fcd-bc5d-7c2ef2b9e64a" />
-
-
+<img width="861" height="432" alt="image" src="https://github.com/user-attachments/assets/758887e1-0b1c-4ccc-a8f6-290bfb9463ec" />
 
 ### Question 3 (Q3)
-
 
 This section contains the JavaScript implementation for Question 3. The program is created and tested to ensure that it meets the given requirements.
 
@@ -81,8 +78,7 @@ This section contains the JavaScript implementation for Question 3. The program 
 
 **Output Screenshot:**
 
-<img width="718" height="332" alt="image" src="https://github.com/user-attachments/assets/aea384d9-7cb0-4360-b135-a1ac7da12103" />
-
+<img width="831" height="452" alt="image" src="https://github.com/user-attachments/assets/4b217bbe-1530-4401-97f6-65b6706ce2e5" />
 
 ## 4. Technologies Used
 
