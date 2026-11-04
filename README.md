@@ -64,7 +64,8 @@ This section contains the JavaScript solution for Question 2. It demonstrates th
 
 **Output Screenshot:**
 
-<img width="625" height="306" alt="image" src="https://github.com/user-attachments/assets/c22affe2-00d4-466b-9b90-2fe50c24cf4b" />
+<img width="710" height="400" alt="image" src="https://github.com/user-attachments/assets/ab2f6da7-9b7d-4fcd-bc5d-7c2ef2b9e64a" />
+
 
 
 ### Question 3 (Q3)
